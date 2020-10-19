@@ -1,5 +1,5 @@
 # sample-chain-java-example
-Sample code to demonstrate how Crypto.com Chain C bindings can be used in a Java project.  
+Sample code to demonstrate how Thaler Experimental Network C bindings can be used in a Java project.  
 
 # before compiling
 install openjdk  
