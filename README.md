@@ -1,4 +1,4 @@
-# sample-chain-java-example
+# sample-thaler-java-example
 Sample code to demonstrate how Thaler Experimental Network C bindings can be used in a Java project.  
 
 # before compiling
